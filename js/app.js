@@ -4,6 +4,5 @@ var map = L.mapbox.map('map', 'rebeccamills.lifog24n')
 
     L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png').addTo(map);
 
-// var layer = L.mapbox.tileLayer('layer')
 
-  
+
